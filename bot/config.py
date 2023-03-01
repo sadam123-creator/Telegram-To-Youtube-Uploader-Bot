@@ -4,7 +4,7 @@ class Config:
 
     BOT_TOKEN = "5857558931:AAGnJgKu7IZgfQjZUWpk33u-U5IgJLdu5Rc"
 
-    SESSION_NAME = "@Postedsada_bot"
+    SESSION_NAME = "Postedsada_bot"
 
     API_ID = "26825478"
 
